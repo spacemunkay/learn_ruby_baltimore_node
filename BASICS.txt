@@ -1,0 +1,25 @@
+Online Resources: 
+
+www.tryruby.org
+http://rubylearning.com/satishtalim/tutorial.html
+
+Editors:
+
+    IDEs:
+        Aptana
+        RubyMine
+        Eclipse (w Ruby plugin)
+
+    Mac:
+        TextMate
+        TextWrangler
+        MacVim
+
+    Windows:
+        Notepad++
+
+How to run examples from command line:
+    ->  ruby file_to_run.rb
+
+Starting interactive ruby interpreter:
+    -> irb
