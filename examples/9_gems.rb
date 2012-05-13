@@ -20,7 +20,7 @@ https://www.ruby-toolbox.com/
 
 After installing a gem, you need to require it in your .rb file:
 
-require 'fastercsv'
+require 'hpricot'
 
 =end
 
