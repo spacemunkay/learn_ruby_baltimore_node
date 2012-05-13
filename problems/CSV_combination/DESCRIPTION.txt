@@ -1,0 +1,9 @@
+For this problem we need to find discrepencies between two CSV files.
+
+One file contains a directory of people's names and addresses.  Another contains names and paid checks to that person.
+
+1.  The first task is to match all everyone's check information from the check_data.csv with their respective address in the directory_data.csv
+    NOTE: There might be multiple check entries for a person.
+
+2.  The second task is to keep track of people who have check data but don't have addresses in the directory.
+
