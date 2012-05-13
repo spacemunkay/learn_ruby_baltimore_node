@@ -20,7 +20,7 @@ puts "array each"
 end
 
 puts "hash each"
-#hashse are also enumerable
+#hashes are also enumerable
 { "color" => "blue", "type" => "square", "sides" => 4 }.each do |key, value|
   puts "#{key}: #{value}"
 end
